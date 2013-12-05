@@ -1,0 +1,1 @@
+This is an R package designed to do variable selection of groups of features, which are allowed to overlap, in several tasks. The model also supports sparsity within groups so that individual features can be set to zero.

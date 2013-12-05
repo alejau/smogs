@@ -1,0 +1,11 @@
+Package: smogs
+Type: Package
+Title: Sparse Multitask Overlap Group Selection
+Version: 1.0
+Date: 2013-10-28
+Author: Alexandra Jauhiainen and Karl Landstrom
+Maintainer: Alexandra Jauhiainen <alexandra.jauhiainen@ki.se>, Karl Landstrom <karl.landstrom@ki.se>
+Description: This package is designed to do variable selection of groups of features, which are allowed to overlap, in several tasks. The model also supports sparsity within groups so that individual features can be set to zero.
+License: GPL-3
+Depends: Rcpp (>= 0.10.3)
+LinkingTo: Rcpp
